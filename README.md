@@ -5,7 +5,10 @@
 Este proyecto tiene como objetivo modelar de manera simple las colisiones entre un grupo de bolas de billar. Fue desarrollado como parte de la materia de Modelado y Simulación.
 
 ## Simulation test 1
-![](videos/simulation_test1.webm)
+<figure class="video_container">
+  <iframe src="videos/simulation_test1.webm" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 ## Características
 
