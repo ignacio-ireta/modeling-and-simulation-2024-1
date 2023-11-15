@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo modelar de manera simple las colisiones entre 
 
 ## Simulation test 1
 <figure class="video_container">
-  <iframe src="videos/simulation_test1.webm" frameborder="0" allowfullscreen="true"> 
+  <iframe src="./videos/simulation_test1.mp4" frameborder="0" allowfullscreen="true"> 
 </iframe>
 </figure>
 
